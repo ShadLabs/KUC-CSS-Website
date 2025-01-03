@@ -20,7 +20,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Phone</h3>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+233 (57) 438-0534</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -29,7 +29,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Email</h3>
-                <p className="text-gray-600">contact@eventflow.com</p>
+                <p className="text-gray-600">css-kuc@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -37,7 +37,7 @@ export default function Contact() {
                 <MessageSquare className="w-6 h-6 text-blue-600" />
               </div>
               <div>
-                <h3 className="text-lg font-semibold mb-1">Live Chat</h3>
+                <h3 className="text-lg font-semibold mb-1">Let's Chat</h3>
                 <p className="text-gray-600">Available Monday to Friday, 9am - 5pm</p>
               </div>
             </div>
